@@ -1,4 +1,9 @@
-### Hi there 👋
+## Yo
+donuts? 🍩
+
+<picture>
+ <img alt="oshino shinobu eating a donut" src="shinobu-eat-donut.gif">
+</picture>
 
 <!--
 **am-cid/am-cid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
